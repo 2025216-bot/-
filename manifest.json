@@ -1,0 +1,23 @@
+{
+  "name": "SmartAgri - 농업 기후·개화 정보 알림장",
+  "short_name": "SmartAgri",
+  "description": "농업인을 위한 실시간 기후 변동 및 개화 시기 제보·관찰 메모장",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
